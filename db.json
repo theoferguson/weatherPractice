@@ -1,0 +1,11 @@
+{
+  "zipcodes": [
+    {
+      "city": "Brooklyn",
+      "zipcode": "",
+      "weather": "Current Weather Conditions: broken clouds",
+      "tempature": "Current Tempature (Farenheit): 80.89",
+      "id": 1
+    }
+  ]
+}
